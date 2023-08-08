@@ -1,0 +1,12 @@
+transformers
+transformers[]
+datasets
+sacreblue
+rouge_score
+py7zr
+pandas
+nltk
+tqdm
+PyYaml
+matplotlib
+torch
